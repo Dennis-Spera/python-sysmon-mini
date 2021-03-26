@@ -1,8 +1,8 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 #----------------------------------------------------------------------
-# Name: uxdbx
-# Purpose: database monitoring
+# Name: sysmon
+# Purpose: full system monitoring
 #
 # Author:      Dennis Spera
 #
